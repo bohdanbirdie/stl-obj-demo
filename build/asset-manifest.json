@@ -1,6 +1,13 @@
 {
-  "main.css": "static/css/main.49e91c96.css",
-  "main.css.map": "static/css/main.49e91c96.css.map",
-  "main.js": "static/js/main.3d2d3603.js",
-  "main.js.map": "static/js/main.3d2d3603.js.map"
+  "main.css": "/stl-obj-demo/static/css/main.8227627f.chunk.css",
+  "main.js": "/stl-obj-demo/static/js/main.9815da22.chunk.js",
+  "main.js.map": "/stl-obj-demo/static/js/main.9815da22.chunk.js.map",
+  "static/js/1.a0241c96.chunk.js": "/stl-obj-demo/static/js/1.a0241c96.chunk.js",
+  "static/js/1.a0241c96.chunk.js.map": "/stl-obj-demo/static/js/1.a0241c96.chunk.js.map",
+  "runtime~main.js": "/stl-obj-demo/static/js/runtime~main.1dd6bb94.js",
+  "runtime~main.js.map": "/stl-obj-demo/static/js/runtime~main.1dd6bb94.js.map",
+  "static/css/main.8227627f.chunk.css.map": "/stl-obj-demo/static/css/main.8227627f.chunk.css.map",
+  "index.html": "/stl-obj-demo/index.html",
+  "precache-manifest.393b274789a074e53920df99986bdddb.js": "/stl-obj-demo/precache-manifest.393b274789a074e53920df99986bdddb.js",
+  "service-worker.js": "/stl-obj-demo/service-worker.js"
 }
